@@ -22,11 +22,15 @@ If you do not have Python installed yet, it is highly recommended that you insta
 The data includes each companies with the following features: 
 
 **Features**
-1) Company Name
-2) Date of Tweet 
-3) Number of Retweets
-4) Number of Favorites
-5) Number of Followers
+1. Company Name
+
+2. Date of Tweet 
+
+3. Number of Retweets
+
+4. Number of Favorites
+
+5. Number of Followers
 
 ### Notes:
 NOTE: you might think it is easier to using Jefferson-Henrique/GetOldTweets-python - its not and it was a huge waste of my time
