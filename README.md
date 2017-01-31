@@ -16,9 +16,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 - The file: GotThis.py is the python code to extract the data from Twitter and put it into a .txt file.  I converted those files to .csv which are found on the git page.
 - The file: GlookoData.py is the python code that does all the analysis.
-### Run
 
-You can run either file in python with the Twitter API. 
 ## Data
 
 The data includes each companies with the following features: 
